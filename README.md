@@ -10,7 +10,7 @@ After setting up all the requirements, execute the run.sh program with files(pre
 The output of 
 
 ## Working Demo
-![](WelcomeScreen.png)
+![](WelcomeScreen1.png)
 
 ## Contribute
 The best way I could think of practicing bash was by making a small project. 
