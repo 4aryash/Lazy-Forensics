@@ -1,5 +1,5 @@
 # Lazy-Forensics
-A bash script to automate redundancy while solving Forensic Challenges in a CTF.
+A bash script to automate repetition while solving Forensic Challenges in a CTF.
 
 ## Usage
 >• Clone the repository. <br>
