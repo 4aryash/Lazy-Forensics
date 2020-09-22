@@ -9,4 +9,4 @@ A bash script to automate repetition while solving Forensic Challenges in a CTF.
 <br>
 
 ## Working Demo
-![](Welcome.png)
+![](WelcomeScreen.png)
