@@ -11,4 +11,3 @@ The output of the script is stored in a log.txt file so as to save time and repe
 
 ## Working Demo
 ![](WelcomeScreen1.png)
-![](Lazy-Forensics.mp4)
