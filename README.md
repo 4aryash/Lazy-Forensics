@@ -13,4 +13,4 @@ Follow the instructions in Usage-Readme.txt to run the tool properly. <br><br>
 
 ## Working Demo
 ![](WelcomeScreen1.png)<br>
-<a href=http://www.filedropper.com/lazy-forensics> <a href=http://www.filedropper.com >Click here to see the working demonstration.</a></div>
+<a href=https://streamable.com/yffggt>Click here to see the working demonstration.</a></div>
