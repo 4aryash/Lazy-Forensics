@@ -1,5 +1,5 @@
-# Lazy-Forensics
 ![](lazy-sloth.gif)
+# Lazy-Forensics
 ##### A bash script to automate repetition of similar tasks and save time while analysing Forensic Challenges in a CTF.<br>
 
 ## Instructions
