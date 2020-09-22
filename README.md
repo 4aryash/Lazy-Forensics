@@ -1,7 +1,7 @@
 # Lazy-Forensics
 A bash script to automate repetition and save time while solving Forensic Challenges in a CTF.
 
-### Important
+## Important
 Follow the instructions in Usage-Readme.txt to run the tool properly. <br>
 
 ## Working
