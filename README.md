@@ -6,4 +6,7 @@ A bash script to automate redundancy while solving Forensic Challenges in a CTF.
 >• For instructions go through the Usage-Readme.txt file. (IMPORTANT) <br>
 >• Run the setup.sh as sudo for installing all requirements. <br>
 >• Execute the run.sh program to use the tool. <br>
+<br>
+
+## Working Demo
 ![](Welcome.png)
