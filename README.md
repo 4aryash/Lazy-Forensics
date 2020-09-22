@@ -12,5 +12,5 @@ Follow the instructions in Usage-Readme.txt to run the tool properly. <br><br>
  • Some of the tools used come pre-installed with OS's like Kali Linux or Parrot, while other distros of Linux are required to install them.<br><br>
 
 ## Working Demo
-![](WelcomeScreen1.png)
-<a href=http://www.filedropper.com/lazy-forensics><img src=http://www.filedropper.com/download_button.png width=127 height=145 border=0/></a><br /><div style=font-size:9px;font-family:Arial, Helvetica, sans-serif;width:127px;font-color:#44a854;> <a href=http://www.filedropper.com >online backup storage</a></div>
+![](WelcomeScreen1.png)<br>
+<a href=http://www.filedropper.com/lazy-forensics> <a href=http://www.filedropper.com >Click here to see the working demonstration.</a></div>
