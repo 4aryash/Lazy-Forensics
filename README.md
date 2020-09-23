@@ -13,4 +13,4 @@ Follow the instructions in Usage-Readme.txt to run the tool properly. <br><br>
 
 ## Working Demo
 ![](WelcomeScreen1.png)<br>
-<a href=https://streamable.com/yffggt>Click here to see the working demonstration.</a></div>
+:movie_camera: <a href=https://streamable.com/yffggt>Click here to see the working demonstration.</a></div>
