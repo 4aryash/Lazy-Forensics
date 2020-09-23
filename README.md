@@ -13,8 +13,8 @@ Follow the instructions in Usage-Readme.txt to run the tool properly. <br><br>
 
 ## Working Demo
 ![](WelcomeScreen1.png)<br>
-:film_projector: <a href=https://streamable.com/yffggt>Click here to see the working demonstration.</a></div><br>
+:film_projector: <a href=https://streamable.com/yffggt>Click here to see the working demonstration.</a></div><br><br>
 
 ### Contribute
-This is a very primitive project currently and I'm hoping to incorporate more tools with time. <br>
+This is a very primitive project currently and I'm hoping to incorporate more tools with time.
 In case you have suggestions/additions/errors while dealing with the tool, you are welcome to drop a message or contribute by sending a pull request.<br>
