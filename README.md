@@ -1,6 +1,6 @@
 ![](lazy-sloth.gif)
 # Lazy-Forensics
-A bash script to reduce repetition of similar tasks and save time while analysing Forensic Challenges in a CTF.<br><br>
+Programmed an automation tool for Linux OS using bash scripting to reduce repetition of similar tasks and save time while performing Digital File Forensic Analysis or while solving challenges in a Jeopardy-style CTFs.<br><br>
 
 ## Instructions
 Follow the instructions in Usage-Readme.txt to run the tool properly. <br><br>
